@@ -1,5 +1,4 @@
 package com.example.easynotes.controller;
-
 import com.example.easynotes.exception.ResourceNotFoundException;
 import com.example.easynotes.model.Note;
 import com.example.easynotes.repository.NoteRepository;
